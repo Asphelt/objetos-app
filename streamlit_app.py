@@ -33,7 +33,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Título principal
-st.title("🚗 Detección de Objetos Urbanos - Precisión Mejorada")
+st.title("Detección de Objetos Urbanos")
 st.markdown("Carga una imagen o video y detecta carros, peatones, autobuses, camiones y más con una precisión mejorada.")
 
 # Sidebar
